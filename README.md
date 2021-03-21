@@ -40,3 +40,5 @@ Dataset after cleaning:
 | Loss  | Training - 0.704 Validation - 1.661  |
 | PPL  | Training - 2.021 Validation - 5.264  |
 | Loss Function  | CrossEntropy  |
+
+
