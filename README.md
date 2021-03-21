@@ -41,4 +41,6 @@ Dataset after cleaning:
 | PPL  | Training - 2.021 Validation - 5.264  |
 | Loss Function  | CrossEntropy  |
 
+# Example:
+![alt text](https://github.com/bala1802/English_Python_Translator/blob/main/Images/Example_01_Image05.JPG)
 
