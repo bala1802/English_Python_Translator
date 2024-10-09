@@ -44,3 +44,7 @@ Dataset after cleaning:
 # Example:
 ![alt text](https://github.com/bala1802/English_Python_Translator/blob/main/Images/Example_01_Image05.JPG)
 
+# Part-time Internship Completion Certificate:
+
+![END_Certificate](https://github.com/user-attachments/assets/e5e91c9d-3b79-4b4b-9e2d-907117845d68)
+
