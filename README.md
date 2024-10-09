@@ -1,4 +1,4 @@
-# English_Python_Translator
+# English to Python Translator
 
 # Train Embedding Layer:
 
